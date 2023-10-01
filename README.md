@@ -5,7 +5,7 @@ Below is the Youtube video of our project:
 
 Below is the information based on our project:
 
-![image](https://github.com/HackerTanveer/webcup2023-Cyberx-Ai/assets/90670153/f36ff717-ed61-4e10-a639-21727dbf3066)
+![Screenshot 2023-10-01 041816](https://github.com/HackerTanveer/Orinix.AI-Cyber-X/assets/146033345/81960f96-3e9b-41f1-8a02-ad42d643f025)
 
 
 - Folder Client contains our project's frontend 
